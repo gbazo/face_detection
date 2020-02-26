@@ -13,4 +13,4 @@ If any version is installed, remove:
 Then install the contrib version:
 - pip install opencv-contrib-python
 
-After the steps restart the computer, everything should work.
+After the steps restart the computer, everything should work. An image with the final result is available.
